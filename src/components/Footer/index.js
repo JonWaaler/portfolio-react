@@ -3,10 +3,10 @@ import React from 'react';
 function Footer(){
     return (
     <footer>
-        <div class="content-border">
+        <div className="content-border">
           <h2>Contact Me</h2>
         </div>
-        <div class="contact-content">
+        <div className="contact-content">
           <a href="tel:416-912-7235">(416) - 912 - 7235</a>
           <a href="mailto:JonWaaler@outlook.com">JonWaaler@outlook.com</a>
           <a href="https://github.com/JonWaaler?tab=repositories" rel="noreferrer" target="_blank">GitHub</a>

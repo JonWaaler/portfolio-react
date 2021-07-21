@@ -29,7 +29,5 @@ function Header() {
         </div>
     );
 }
-// F:\GitBash - Local Repo\portfolio-react\src\components\Header\index.js
-// F:\GitBash - Local Repo\portfolio-react\src\assets\images\PortfolioBG.png
 
 export default Header;
