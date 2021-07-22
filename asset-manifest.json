@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.89f7c569.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.0583da2c.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.0583da2c.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.e1dea8f1.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.e1dea8f1.js.map",
+    "static/js/2.7bf9da81.chunk.js": "/portfolio-react/static/js/2.7bf9da81.chunk.js",
+    "static/js/2.7bf9da81.chunk.js.map": "/portfolio-react/static/js/2.7bf9da81.chunk.js.map",
+    "static/js/3.28f0a00f.chunk.js": "/portfolio-react/static/js/3.28f0a00f.chunk.js",
+    "static/js/3.28f0a00f.chunk.js.map": "/portfolio-react/static/js/3.28f0a00f.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/main.89f7c569.chunk.css.map": "/portfolio-react/static/css/main.89f7c569.chunk.css.map",
+    "static/js/2.7bf9da81.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.7bf9da81.chunk.js.LICENSE.txt",
+    "static/media/BloodReignCover.592815e3.PNG": "/portfolio-react/static/media/BloodReignCover.592815e3.PNG",
+    "static/media/BloodReignGamepley.e70d4514.mp4": "/portfolio-react/static/media/BloodReignGamepley.e70d4514.mp4",
+    "static/media/CODZombiesGameplay.f304d89d.mp4": "/portfolio-react/static/media/CODZombiesGameplay.f304d89d.mp4",
+    "static/media/CodZombiesCover.1d00434a.PNG": "/portfolio-react/static/media/CodZombiesCover.1d00434a.PNG",
+    "static/media/ETGCover.3adaa6a8.PNG": "/portfolio-react/static/media/ETGCover.3adaa6a8.PNG",
+    "static/media/ETG_Gameplay.35b481fb.mp4": "/portfolio-react/static/media/ETG_Gameplay.35b481fb.mp4",
+    "static/media/PortfolioBG.913be120.webp": "/portfolio-react/static/media/PortfolioBG.913be120.webp",
+    "static/media/PortfolioBG.af809f38.png": "/portfolio-react/static/media/PortfolioBG.af809f38.png",
+    "static/media/logo.6ce24c58.svg": "/portfolio-react/static/media/logo.6ce24c58.svg",
+    "static/media/profilepicture.fbff014f.jpg": "/portfolio-react/static/media/profilepicture.fbff014f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1dea8f1.js",
+    "static/js/2.7bf9da81.chunk.js",
+    "static/css/main.89f7c569.chunk.css",
+    "static/js/main.0583da2c.chunk.js"
+  ]
+}
