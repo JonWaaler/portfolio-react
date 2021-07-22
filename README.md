@@ -22,9 +22,11 @@ To round up some of the many projects I have done over the last 5+ years this ti
 
 ## Website
 
-
+https://jonwaaler.github.io/portfolio-react/
 
 ## Web Preview
+
+![alt text](https://raw.githubusercontent.com/JonWaaler/portfolio-react/main/src/assets/images/OpenGraph-Preview.png)
 
 ## Contribution
 
